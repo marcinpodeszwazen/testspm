@@ -12,4 +12,4 @@ let package = Package(
   ],
   targets: [
   ]
-)}
+)
